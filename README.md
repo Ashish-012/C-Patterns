@@ -2,14 +2,11 @@
 ### 1. Patterns 
 #### WAP to print the following patterns 
 ##### a) 
-\*
-
-\**
-
-\***
-
-\****
-
-\*****
-
+```
+*
+**
+***
+****
+*****
+```
 
