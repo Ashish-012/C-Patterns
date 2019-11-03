@@ -2,12 +2,10 @@
 ### 1. Patterns 
 #### WAP to print the following patterns 
 ##### a) 
-8
+\*\n
+\*\*\n
+\*\*\*\n
+\*\*\*\*\n
+\*\*\*\*\*\n
 
-88
 
-888
-
-8888
-
-88888
