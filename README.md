@@ -1,2 +1,1 @@
-# C
- C++ questions on patterns 
+# Some C++ questions  
