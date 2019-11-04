@@ -1,5 +1,5 @@
 # Some C++ questions  
-### 1. Patterns 
+### Here are my solutions on some of the pattern questions. The solutions are in C++ but you can code them in any language.
 #### WAP to print the following patterns 
 ##### 1) 
 ```
@@ -81,4 +81,20 @@
   ***
    **
     *
+```
+##### 10)
+```
+*****
+  ****
+    ***
+      **
+        *
+```
+##### 11)
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
 ```
