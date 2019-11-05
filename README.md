@@ -99,6 +99,7 @@
       **
         *
 ```
+[solution10](https://github.com/Ashish-012/C-Patterns/blob/master/pattern10.cpp)
 ##### 11)
 ```
     *
@@ -107,7 +108,9 @@
  * * * *
 * * * * *
 ```
+[solution11](https://github.com/Ashish-012/C-Patterns/blob/master/pattern11.cpp)
 ##### 12)
+```
     *
    **
   ***
@@ -117,3 +120,5 @@
   ***
    **
     *
+```
+[solution12](https://github.com/Ashish-012/C-Patterns/blob/master/pattern12.cpp)
