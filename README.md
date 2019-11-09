@@ -122,3 +122,32 @@
     *
 ```
 [solution12](https://github.com/Ashish-012/C-Patterns/blob/master/pattern12.cpp)
+##### 13) (hardest one yet)
+```
+*** ***
+**   **
+*     *
+
+*     *
+**   **
+*** ***
+```
+[solution13](https://github.com/Ashish-012/C-Patterns/blob/master/pattern13.cpp)
+##### 14)
+```
+    1
+   123
+  12345
+ 1234567
+123456789
+```
+[solution14](https://github.com/Ashish-012/C-Patterns/blob/master/pattern14.cpp)
+##### 15)
+```
+    1
+   202
+  30003
+ 4000004
+500000005
+```
+[solution15](https://github.com/Ashish-012/C-Patterns/blob/master/pattern15.cpp)
