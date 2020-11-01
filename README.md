@@ -151,3 +151,22 @@
 500000005
 ```
 [solution15](https://github.com/Ashish-012/C-Patterns/blob/master/pattern15.cpp)
+##### 16)
+```
+*    *
+**  **
+******
+******
+**  **
+*    *
+```
+[solution16](https://github.com/Ashish-012/C-Patterns/blob/master/pattern16.cpp)
+##### 17)
+```
+    * * * * * 
+   * * * * * 
+  * * * * * 
+ * * * * * 
+* * * * * 
+```
+[solution17](https://github.com/Ashish-012/C-Patterns/blob/master/pattern17.cpp)
